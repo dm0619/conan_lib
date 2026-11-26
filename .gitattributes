@@ -1,0 +1,4 @@
+/export_all.sh text eol=lf
+third_party/*/upstream/** -text
+third_party/*/conanfile.py text eol=lf
+third_party/*/conandata.yml text eol=lf
